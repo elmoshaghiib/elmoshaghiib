@@ -1,77 +1,99 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1900&pause=700&color=20C20E&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Offensive+Security+Learner;Web+%26+Network+Security;Always+Improving+%F0%9F%94%90">
-</p>
+<div align="center">
+  <h1>
+    Hi there, I'm a Cybersecurity Enthusiast!
+    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+  </h1>
+
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+
+  <p>
+    <em>🛡️ Offensive Security & Web Security Learner — Focused on Exploitation, Labs, and Real-World Pentesting</em>
+  </p>
+
+  <p>
+    <a href="https://github.com/elmoshagiib">
+      <img src="https://img.shields.io/github/followers/elmoshagiib?label=Follow&style=social" />
+    </a>
+    <a href="https://github.com/elmoshagiib">
+      <img src="https://komarev.com/ghpvc/?username=elmoshagiib&color=brightgreen" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🔐 About  
-Passionate about **Cybersecurity & Offensive Security** with a strong interest in Web, Network, and Linux security.  
-Focused on hands-on learning, creating labs, understanding vulnerabilities, exploiting them, and building secure solutions.
+## 🎤 Cybersecurity Talks & Learning Activities
+
+- **Web Security Fundamentals — 2025**  
+  Intro session about OWASP Top 10 (SQLi, XSS, CSRF, IDOR) & basic exploitation concepts.
+
+- **Network Security & Packet Analysis Workshop — 2024**  
+  Hands-on training using Wireshark + Kali Linux for traffic inspection & protocol analysis.
+
+- **Linux Hardening & System Security — 2024**  
+  Covered permissions, auditing, secure configs, and privilege escalation basics.
+
+- **CTF Participation**  
+  Solved challenges in categories: Web, Forensics, OSINT, and Basic Reverse Engineering.
 
 ---
 
-## 🛡 Areas of Interest  
-- Web Exploitation (SQLi, XSS, CSRF, IDOR)  
-- Offensive Security & Pentesting  
-- Network Security & Packet Analysis  
-- Linux Hardening  
-- Forensics & Log Analysis  
-- Python for Security Automation  
-- CTF Challenges & Real-world Scenarios  
+## 📝 Latest Notes & Writeups
+
+- 🔍 **SQL Injection Deep Dive — How Injection Works & How to Patch It**  
+  Practical breakdown of error-based, boolean-based, and union-based SQLi.
+
+- 🧬 **XSS Exploitation Guide — Payloads, Bypasses, and Filters**  
+  Realistic examples with reflected & stored XSS.
+
+- 🛰️ **Network Traffic Analysis with Wireshark**  
+  Techniques for analyzing suspicious packets and identifying attack patterns.
+
+- 🧪 **Forensics: Metadata Extraction & Disk Carving Basics**  
+  Notes taken while solving entry-level forensic challenges.
+
+- 🛠️ **How I Built My Own Web Security Labs Locally (Docker + PHP)**  
+  Personal writeup on building training environments.
 
 ---
 
-## 💻 Programming Languages  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png"></code>
+## 🧰 Technical Stack & Tools
+
+**Cybersecurity**
+- Burp Suite  
+- Nmap  
+- Wireshark  
+- Metasploit  
+- Hydra  
+- Sqlmap  
+- Gobuster  
+- Linux (Kali / Ubuntu)  
+- OWASP ZAP  
+
+**Programming & Scripting**
+- Python  
+- JavaScript  
+- Bash  
+- C++  
+
+**Other**
+- Git & GitHub  
+- Docker  
+- VirtualBox  
+- VS Code  
 
 ---
 
-## 🧰 Cybersecurity Tools  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/kalilinux/kalilinux.png"></code>
-<code><img height="30" src="https://www.kali.org/tools/burpsuite/images/burpsuite-icon.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/wireshark/wireshark.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/metasploit-framework/metasploit-framework.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+## 🚀 Ongoing Work
+
+- Developing personal **Web Security Labs**  
+- Creating **CTF Writeups**  
+- Expanding **Pentesting Notes Repository**  
+- Building **Python automation scripts** for security tasks  
 
 ---
 
-## 📂 Cybersecurity Projects  
-🔸 **Web-Security-Labs** — SQLi / XSS / IDOR training labs  
-🔸 **Pentesting-Notes** — Commands, techniques, cheat-sheets  
-🔸 **Forensics-Challenges** — Digital forensics exercises  
-🔸 **Cybersecurity-Toolkit** — Log analysis & automation scripts  
-🔸 **Python-Security-Scripts** — Python tools for security tasks  
+## 📫 Contact
+- 📧 Email: **ahmedcysec25@gmail.com**
+- 🐱 GitHub: **https://github.com/elmoshagiib**
 
-> All projects are for educational use inside safe lab environments.
-
----
-
-## 🛠 Currently Working On  
-- CTF writeups  
-- Expanding web exploitation labs  
-- Network analysis exercises  
-- Automation scripts for pentesting tasks  
-
----
-
-## 📬 Contact  
-📧 Email: **ahmedcysec25@gmail.com**  
-🐱 GitHub: **https://github.com/elmoshagiib**
-
----
-
-## 🚀 GitHub Stats  
-<p align="center">
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=elmoshagiib&show_icons=true&theme=react&icon_color=20C20E&title_color=20C20E"/>
-</p>
-
----
-
-## 💬 Quote  
-> *“The quieter you become, the more you are able to hear.”* — Kali Linux
